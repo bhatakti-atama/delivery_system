@@ -8,6 +8,9 @@
 - Better performance due to inbuilt templates 
 - More secure than node js
 - Less development time 
+
+
+
 ![image](https://github.com/bhatakti-atama/delivery_system/blob/master/images/djangoArchitecture.png)
 
 
