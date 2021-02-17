@@ -18,3 +18,13 @@
 - Update record on delivery rescheduling
 - Update record and intimation on reward and penalty calculation
 - Query generation on record of past service, given a courier agency.
+
+## Other Features :
+- Custom login/domain for employess
+- Custom view for delivery person 
+
+
+## Optional features :
+- Gps tracking for deliveries 
+- Sms notifications 
+- Special algorithm for assignment
