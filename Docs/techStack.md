@@ -8,7 +8,7 @@
 - Better performance due to inbuilt templates 
 - More secure than node js
 - Less development time 
-![image](images/djangoArchitecture.png)
+![image](https://github.com/bhatakti-atama/delivery_system/blob/master/images/djangoArchitecture.png)
 
 
 ### Mysql 
